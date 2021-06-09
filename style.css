@@ -1,3 +1,7 @@
 .head-bar{
-    display: grid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkblue;
+    border-radius: 12px;
 }
