@@ -5,3 +5,7 @@
     color: darkblue;
     border-radius: 12px;
 }
+
+.divider{
+    border-top: 4px solid #dddddd;
+}
