@@ -20,3 +20,8 @@
     text-align: left;
     display: block;
 }
+
+.formatted-text{
+    padding: 10px 5px 5px 25px;
+
+}
