@@ -9,3 +9,14 @@
 .divider{
     border-top: 4px solid #dddddd;
 }
+
+.header-picture{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.paragraphs{
+    text-align: left;
+    display: block;
+}
